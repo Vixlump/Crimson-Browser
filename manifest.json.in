@@ -10,7 +10,7 @@
             "content-hub": "content-hub.json"
         }
     },
-    "version": "0.0.3",
+    "version": "0.0.4",
     "maintainer": "lumpology <support@lumpology.com>",
     "framework" : "@CLICK_FRAMEWORK@"
 }

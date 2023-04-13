@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Crimson Browser
+Exec=qmlscene %U qml/Main.qml
+Icon=assets/logo.png
+Comment=Just another browser for Ubuntu Touch.
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true

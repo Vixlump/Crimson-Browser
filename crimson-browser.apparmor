@@ -1,0 +1,12 @@
+{
+    "policy_groups": [
+        "networking",
+        "webview",
+        "audio",
+        "video",
+        "microphone",
+        "camera",
+        "content_exchange"
+    ],
+    "policy_version": 16.04
+}

@@ -1,0 +1,9 @@
+/./manifest.json
+//crimson-browser.apparmor
+/./content-hub.json
+//assets/logo.png
+//qml/Main.qml
+//qml/ImportPage.qml
+//qml/Main_bak.qml
+//qml/Main_bak2.qml
+//crimson-browser.desktop

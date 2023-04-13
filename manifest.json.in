@@ -1,0 +1,16 @@
+{
+    "name": "crimson-browser.lumpology",
+    "description": "Just another browser for Ubuntu Touch. (Very Early Testing)",
+    "architecture": "@CLICK_ARCH@",
+    "title": "Crimson Browser",
+    "hooks": {
+        "crimson-webbrowser": {
+            "apparmor": "crimson-browser.apparmor",
+            "desktop":  "crimson-browser.desktop",
+            "content-hub": "content-hub.json"
+        }
+    },
+    "version": "0.0.3",
+    "maintainer": "lumpology <support@lumpology.com>",
+    "framework" : "@CLICK_FRAMEWORK@"
+}
